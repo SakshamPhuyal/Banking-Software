@@ -17,7 +17,7 @@ int main() {
     scanf("%d", &pw);
 
     if (pw != 0 && pw >= 1000 && pw <= 9999) {
-        printf("\t\t\tWelcome to SRS Mobile Banking, Mr. %s\n", name);
+        printf("\t\t\tWelcome to Saksham's Mobile Banking, Mr. %s\n", name);
 
         while (again) {
             printf("\n1. Balance Check\n");
